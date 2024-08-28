@@ -10,5 +10,5 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Max's UX Journal](j01/)
 
