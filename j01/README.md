@@ -38,7 +38,7 @@ Another issue is that it was not clear what all the buttons do. Changing colors 
 The first round was a bit rocky, but by talking to each other as we played, we were able to figure out how the game's drawing pad worked. When we were done, we had the impression that a second round would have gone fairly smoothly (as long as nobody submitted early by mistake).
 
 ### Voting
-We didn't run into any issues with voting for others's submissions; the UI was much simpler and did its job well. Since we had made the game only have one round, it ended after we voted.
+We didn't run into any issues with voting for others' submissions; the UI was much simpler and did its job well. Since we had made the game only have one round, it ended after we voted.
 
 ### Conclusion
 The long list of issues above makes the UI look pretty ineffective, but in my (completely unbiased) opinion, it's actually decent overall. There were several screens that I didn't comment on because I didn't find any significant problems with them. Also, the UI is fairly learnable - once you are sufficiently familiar with it, many of the issues go away. If the game was more intuitive to new users and easier to learn, it could be very effective.
