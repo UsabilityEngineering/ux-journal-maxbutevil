@@ -7,7 +7,7 @@ Our goal was to successfully start a game of GoblinCon and play one full round.
 ### Landing Page
 We started by going to the link, which brought us to this page:
 ![image](https://github.com/user-attachments/assets/f50d9bc9-7afa-4338-846f-28c0a99f0c43)
-We didn't run into any issues here, because we knew going into it that the game had a structure similar to the JackBox series of games. In JackBox games, a non-mobile device is the "host", and displays a join code. Players then join the game on their phone by entering the code. However, if we didn't already have that knowledge, this screen probably would've been confusing to us. This page could benefit from improved **Help and Documentation**, to explain how the game works to players who are confused. A button or a link that provides information about how the game works would go a long way.
+We didn't run into any issues here, because we knew going into it that the game had a structure similar to the JackBox series of games. In JackBox games, a non-mobile device is the "host", and displays a join code. Players then join the game on their phone by entering the code. However, if we didn't already have that knowledge, this screen probably would've been confusing to us. This page could benefit from improved **Help and Documentation**; some kind of mechanism to explain how the game works to players who are confused. For example, a button or a link that provides information about how the game works would go a long way.
 
 ### Hosting
 The host page looks like this:
@@ -18,7 +18,7 @@ After some more experimentation, we figured out that clicking on the right side 
 
 A final, smaller issue is that the "Game Mode" setting doesn't change when clicked. It appears to only have one option, making us wonder why it was even visible at all. Having a setting that does not respond to user input is another potential source of confusion, and makes it even less obvious that the other settings *do* respond to user input.
 
-This is an issue with **Consistency & Standards**; where possible, the interface should be consistent with users' previous experiences with similar tools. Here, there are buttons that do not look like buttons, defying user expectations. To make matters worse, they're invisibly split in half, doing opposite things depending on where you click.
+This is an issue with **Consistency & Standards**. Where possible, the interface should be consistent with users' previous experiences with similar tools. Here, there are buttons that do not look like buttons, defying user expectations. To make matters worse, they're invisibly split in half, doing opposite things depending on where you click.
 
 On the other hand, using the system wasn't a bad experience once we understood how it worked. If the settings more obviously functioned as buttons, and were visually split in half in some way, the interface would be much better. We set the "Number of Rounds" to 1, reset the other settings to their defaults, and moved on.
 
