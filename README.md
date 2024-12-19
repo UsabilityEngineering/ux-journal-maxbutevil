@@ -6,7 +6,7 @@ I'm a 4th-year undergraduate computer science student with a passion for program
 
 ## UX Team Project
 
-Coming soon.
+I worked on [GoodDays](https://github.com/ChicoState/ux-GoodDays), a minimalist daily journaling application
 
 ## UX Journal
 
